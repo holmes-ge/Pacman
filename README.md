@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Pacman
 This is an exercise that creates Pacman icons with the click of a button and moves them about the browser window each at their own pace. 
 Upon clicking the "Add Pacman" button in the web page, Javascript functions create a Pacman at a random location with a random velocity. 
